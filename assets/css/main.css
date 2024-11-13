@@ -2494,4 +2494,5 @@ input, select, textarea {
     width: 30%; /* Adjust size of the third image */
 			margin-left: 20px; /* Space between image and text */
 	margin-right: 35px;
+	margin-top: -10px;
 }
