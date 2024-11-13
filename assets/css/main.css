@@ -2445,8 +2445,8 @@ input, select, textarea {
 
 /* Styles for the image */
 .image-text-container img {
-    width: 40%; /* Adjust the size of the image */
-    height: 40%;
+    width: 60%; /* Adjust the size of the image */
+    height: 60%;
     border-radius: 50%; /* Circular cropping */
     object-fit: cover; /* Ensures the image fits the circle */
     margin-right: 20px; /* Space between image and text */
